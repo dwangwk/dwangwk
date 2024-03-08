@@ -2,14 +2,12 @@
 
 My name is Daniel Wang, currently a Sophomore @ NUS studying Computer Science.
 
-🔭 I’m currently seeking internship opportunities in New York City.
-
 ## About Me
 
 - 🎓 Sophomore at the National University of Singapore (NUS), majoring in Computer Science.
 - 💼 Seeking internship opportunities in New York City.
-- 💻 Experienced in data engineering, machine learning, and financial technology.
-- 🌱 Passionate about leveraging technology to drive innovation in the finance and technology industries.
+- 💻 Experienced in data engineering, machine learning, and blockchain technology.
+- 🌱 Passionate about leveraging technology to drive innovation in the finance and banking industries.
 
 ## Experience
 
