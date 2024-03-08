@@ -30,7 +30,7 @@ My name is Daniel Wang, currently a Sophomore @ NUS studying Computer Science.
 ## Contact Me
 
 - 📧 Email: [daniel.wang@u.nus.edu](mailto:daniel.wang@u.nus.edu)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/daniel-wang-wk/)
+- 💼 LinkedIn: [linkedin.com/in/daniel-wang-wk](https://www.linkedin.com/in/daniel-wang-wk/)
 
 Feel free to reach out if you have any opportunities or questions! 😊
 
