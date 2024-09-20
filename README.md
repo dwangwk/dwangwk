@@ -9,7 +9,7 @@ My name is Daniel Wang, welcome to my repository!
 - 🌱 Passionate about leveraging technology to drive innovation in the finance and banking industries.
 
 ## I Like to...
-- 🏋️‍♂️ Gym: I enjoy working out 6 days a week PPL.
+- 🏋️‍♂️ Gym: I enjoy working out.
 - 🎱 Pool/Snooker: I love playing pool and snooker with friends.
 - 🎤 Karaoke: Singing karaoke is one of my favorite pastimes.
 
